@@ -67,6 +67,10 @@ out = guess( 'Lindsay', 'female' );
 */
 ```
 
+## Reference 
+
+See the article on [FiveThirtyEight](http://fivethirtyeight.com/features/how-to-tell-someones-age-when-all-you-know-is-her-name/) which was the inspiration for this module.  The statistics are based on data collected by the Social Security Administration, namely their [actuarial tables](http://www.ssa.gov/oact/NOTES/as120/LifeTables_Tbl_7.html) and data on [birth](https://github.com/datasets-io/male-first-names-us-frequency) [frequencies](https://github.com/datasets-io/female-first-names-us-frequency). 
+
 ## Examples
 
 ``` javascript
