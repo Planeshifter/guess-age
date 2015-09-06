@@ -1,6 +1,6 @@
 {
   "name": "guess-age",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Guess the age of a person only from their first name.",
   "author": {
     "name": "Philipp Burckhardt",
@@ -23,12 +23,12 @@
     "url": "git://github.com/Planeshifter/guess-age.git"
   },
   "keywords": [
-      "census",
-      "age",
-      "life-table",
-      "statistics",
-      "data",
-      "us"
+    "census",
+    "age",
+    "life-table",
+    "statistics",
+    "data",
+    "us"
   ],
   "bugs": {
     "url": "https://github.com/Planeshifter/guess-age/issues"
